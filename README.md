@@ -26,3 +26,5 @@ Decision Tree Regressor
 
 *Model Evaluation:* Assessed model performance using metrics like MAE, MSE, and R².
 
+**Outcome:** This project predicts key attributes influencing housing prices in Northern California. The pricing analysis offers insights into economic factors affecting property values, current market trends, and community development. The project aims to empower stakeholders such as investors, buyers, and sellers to make data-driven decisions based on the findings.
+
