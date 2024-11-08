@@ -9,9 +9,9 @@ exploration and analysis), Seaborn, Matplot lib (Data Visualizations), Scikit le
 Notebook (IDE).
 
 
-**#Methods:**
+**Methods:**
 
-##Data Scraping:## Scraped property listing data from the Essex website using Selenium and saved it as a CSV file.
+*Data Scraping:* Scraped property listing data from the Essex website using Selenium and saved it as a CSV file.
 
 *Data Cleaning:* Loaded and cleaned the data in pandas by handling missing values, duplicates, outliers, and encoding categorical variables.
 
