@@ -11,26 +11,17 @@ Notebook (IDE).
 
 **Methods:** 
 
-*Data Scraping*
+*Data Scraping:* Scraped property listing data from the Essex website using Selenium and saved it as a CSV file.
 
-Scraped property listing data from the Essex website using Selenium and saved it as a CSV file.
+*Data Cleaning:* Loaded and cleaned the data in pandas by handling missing values, duplicates, outliers, and encoding categorical variables.
 
-*Data Cleaning*
-
-Loaded and cleaned the data in pandas by handling missing values, duplicates, outliers, and encoding categorical variables.
-
-*Exploratory Data Analysis (EDA)*
-
-Conducted EDA to uncover patterns and relationships within the dataset.
+*Exploratory Data Analysis (EDA):* Conducted EDA to uncover patterns and relationships within the dataset.
 
 *Model Implementation*
-
 Applied multiple regression models to predict property prices:
 Multiple Linear Regression
 Random Forest Regression
 Decision Tree Regressor
 
-*Model Evaluation*
-
-Assessed model performance using metrics like MAE, MSE, and R².
+*Model Evaluation:* Assessed model performance using metrics like MAE, MSE, and R².
 
